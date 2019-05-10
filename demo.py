@@ -13,7 +13,8 @@ class PrintDemo:
 
 class main:
     objs = []
-    names = ['jay','sachin','yash','paresh','dilip','vimal','mukesh','mahesh','vijay','ravi']
+    //names = ['jay','sachin','yash','paresh','dilip','vimal','mukesh','mahesh','vijay','ravi']
+    name=['sachin','jignesh']
 
     for i in names:
         objs.append(PrintDemo(i))
